@@ -1,0 +1,5 @@
+#print("Hello World")
+#name = input ("What is your name?")
+#print(name*7)
+print("Alpacaso " + "Meow " + "Rainbow")
+print(100*4)
