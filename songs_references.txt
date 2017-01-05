@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/20021457/playing-mp3-song-on-python
+https://www.pygame.org/docs/ref/music.html
+http://guzalexander.com/2012/08/17/playing-a-sound-with-python.html
+http://stackoverflow.com/questions/7746263/how-play-mp3-with-pygame
